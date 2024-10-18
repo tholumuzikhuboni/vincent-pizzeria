@@ -20,4 +20,4 @@ Check out the live demo: [Vincent Pizzeria Template](https://vincent-pizzeria.th
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vincent-pizzeria-template.git
+   git clone https://github.com/tholumuzikhuboni/vincent-pizzeria.git
